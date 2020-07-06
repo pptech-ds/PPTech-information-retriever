@@ -1,2 +1,3 @@
-# PPTech-information-retriever
-Information retriever algorithm based on BM25
+# information_retriever
+
+information retriever to rank query answers from database
